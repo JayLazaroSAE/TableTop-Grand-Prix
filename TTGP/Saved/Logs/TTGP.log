@@ -1,0 +1,1080 @@
+﻿Log file open, 06/22/21 10:34:35
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TTGP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283052
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Engine.ini]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Engine.ini]
+[2021.06.22-00.34.36:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Engine.ini]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Engine.ini]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.22-00.34.36:315][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.22-00.34.36:316][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.22-00.34.36:316][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Engine.ini]
+[2021.06.22-00.34.36:316][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Engine.ini]
+[2021.06.22-00.34.36:324][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:324][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.22-00.34.36:324][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.22-00.34.36:324][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:324][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.22-00.34.36:324][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:324][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.22-00.34.36:324][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.22-00.34.36:325][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.22-00.34.36:326][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.22-00.34.36:326][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.22-00.34.36:326][  0]LogHAL: Display: Platform has ~ 16 GB [17090908160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.22-00.34.36:326][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.22-00.34.36:326][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.22-00.34.36:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.22-00.34.36:327][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.22-00.34.36:328][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.22-00.34.36:328][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.22-00.34.36:328][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.22-00.34.36:328][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Engine.ini]
+[2021.06.22-00.34.36:328][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Config/Windows/Editor.ini]
+[2021.06.22-00.34.36:328][  0]LogInit: Computer: MEL-126-2613W
+[2021.06.22-00.34.36:328][  0]LogInit: User: jlazaro4
+[2021.06.22-00.34.36:328][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.06.22-00.34.36:328][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.22-00.34.36:328][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.06.22-00.34.36:328][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.22-00.34.36:328][  0]LogMemory: Process Physical Memory: 139.41 MB used, 139.42 MB peak
+[2021.06.22-00.34.36:328][  0]LogMemory: Process Virtual Memory: 119.12 MB used, 119.12 MB peak
+[2021.06.22-00.34.36:328][  0]LogMemory: Physical Memory: 6502.17 MB used,  9796.99 MB free, 16299.16 MB total
+[2021.06.22-00.34.36:328][  0]LogMemory: Virtual Memory: 134206584.00 MB used,  11146.87 MB free, 134217728.00 MB total
+[2021.06.22-00.34.36:333][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.22-00.34.36:405][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.22-00.34.36:406][  0]LogInit: Using OS detected language (en-US).
+[2021.06.22-00.34.36:406][  0]LogInit: Using OS detected locale (en-AU).
+[2021.06.22-00.34.36:412][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.06.22-00.34.36:623][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.22-00.34.36:640][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.22-00.34.36:658][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.22-00.34.36:658][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.22-00.34.36:832][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.22-00.34.36:832][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.22-00.34.36:832][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.22-00.34.36:832][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.22-00.34.36:920][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2021.06.22-00.34.36:920][  0]LogD3D11RHI:       4053/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.22-00.34.36:923][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.22-00.34.36:923][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.22-00.34.36:923][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.22-00.34.36:931][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.22-00.34.36:931][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.22-00.34.36:931][  0]LogWindows: EnumDisplayDevices:
+[2021.06.22-00.34.36:931][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2021.06.22-00.34.36:931][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2021.06.22-00.34.36:932][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2021.06.22-00.34.36:932][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2021.06.22-00.34.36:933][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.22-00.34.36:933][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2021.06.22-00.34.36:933][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.06.22-00.34.36:933][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.06.22-00.34.36:933][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2021.06.22-00.34.36:994][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.22-00.34.36:994][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.22-00.34.36:994][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.22-00.34.37:012][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.22-00.34.37:014][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.22-00.34.37:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.22-00.34.37:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.22-00.34.37:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.22-00.34.37:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.22-00.34.37:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.22-00.34.37:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.22-00.34.37:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.22-00.34.37:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.22-00.34.37:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.22-00.34.37:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.22-00.34.37:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.22-00.34.37:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.22-00.34.37:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.22-00.34.37:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.22-00.34.37:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.22-00.34.37:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.22-00.34.37:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.22-00.34.37:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.22-00.34.37:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.22-00.34.37:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.22-00.34.37:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.22-00.34.37:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.22-00.34.37:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.22-00.34.37:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.22-00.34.37:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.22-00.34.37:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.22-00.34.37:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.22-00.34.37:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.22-00.34.37:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.22-00.34.37:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.22-00.34.37:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.22-00.34.37:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.22-00.34.37:616][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.22-00.34.37:625][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.22-00.34.37:692][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.22-00.34.37:692][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Intermediate/Shaders/WorkingDirectory/23740/).
+[2021.06.22-00.34.37:693][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jlazaro4/AppData/Local/Temp/UnrealShaderWorkingDir/FB82E74E4920B5A6DD00369A7FDCD566/'.
+[2021.06.22-00.34.37:693][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.22-00.34.37:693][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.22-00.34.38:455][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.22-00.34.38:517][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/jlazaro4/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.22-00.34.38:517][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jlazaro4/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.22-00.34.38:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.22-00.34.38:517][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.22-00.34.38:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.22-00.34.38:517][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.22-00.34.38:528][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.22-00.34.38:529][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.22-00.34.38:529][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.22-00.34.38:540][  0]LogDerivedDataCache: Speed tests for C:/Users/jlazaro4/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.06.22-00.34.38:540][  0]LogDerivedDataCache: Display: Performance to C:/Users/jlazaro4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=467.89MBs, RandomWriteSpeed=102.63MBs. Assigned SpeedClass 'Local'
+[2021.06.22-00.34.38:541][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jlazaro4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.22-00.34.38:541][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.22-00.34.38:541][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.22-00.34.38:590][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.22-00.34.38:591][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.22-00.34.38:621][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.06.22-00.34.38:896][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.22-00.34.38:897][  0]LogInit: Active device profile: [00000290144CA200][0000029011A5EF80 49] Windows
+[2021.06.22-00.34.38:897][  0]LogInit: Profiles: [00000290144CA200][0000029011A5EF80 49] Windows, [00000290143FEA00][00000290043F3100 49] WindowsNoEditor, [00000290144C9200][00000290043F7280 49] WindowsServer, [00000290143FF800][00000290043FB400 49] WindowsClient, [00000290144C8300][0000029009679580 49] IOS, [00000290143FCF00][00000290774E56C0 49] iPadAir, [00000290144CAC00][000002900967D800 49] iPadAir2, [00000290143A6400][000002900968FA80 49] IPadPro, [00000290143A6500][0000029009681AC0 49] iPadAir3, [00000290143FD000][0000029009699C40 49] iPadAir4, [00000290143A7D00][000002900969C100 49] iPadMini2, [00000290143FD600][00000290096A0280 49] iPadMini3, [00000290143A5400][00000290096A4400 49] iPadMini4, [00000290143FD700][00000290096A8580 49] iPadMini5, [00000290143B5D00][00000290096B0840 49] iPhone6, [00000290143B5E00][00000290096AC880 49] iPodTouch6, [00000290143A5C00][00000290096B8B40 49] iPhone7, [00000290143A5B00][00000290096B4B80 49] iPodTouch7, [00000290143B7500][00000290096BCD00 49] iPhone5S, [00000290143A6700][00000290096C0E80 49] iPhone6Plus, [00000290143B5600][00000290096C5000 49] iPhone6S, [00000290143A4E00][00000290096C9180 49] iPhone6SPlus, [00000290143B4700][0000029012049300 49] iPhone7Plus, [00000290143A4A00][000002901204D480 49] iPhoneSE, [00000290143B6D00][0000029012051600 49] iPhone8, [00000290143A7000][000002900968B740 49] iPhone8Plus, [00000290143B4200][0000029012055880 49] iPhoneX, [00000290143A7E00][00000290120599C0 49] iPhoneXS, [00000290143B6800][0000029012061B40 49] iPhoneXSMax, [00000290143A6E00][0000029012065CC0 49] iPhoneXR, [00000290143B4D00][0000029012068180 49] iPhone11, [00000290143A6B00][000002901206C300 49] iPhone11Pro, [00000290143B6B00][0000029012070480 49] iPhone11ProMax, [00000290143A4200][0000029012074600 49] iPhoneSE2, [00000290143B6600][0000029012078780 49] iPhone12Mini, [00000290143A5300][000002901207C900 49] iPhone12, [00000290143B7400][0000029012080A80 49] iPhone12Pro, [00000290143A4400][0000029012084C00 49] iPhone12ProMax, [00000290143B7A00][0000029012088D80 49] iPadPro105, [00000290144CAE00][000002901208CF00 49] iPadPro129, [00000290143B7E00][0000029012091080 49] iPadPro97, [00000290144CA100][0000029012095200 49] iPadPro2_129, [00000290143B5900][0000029012099380 49] iPad5, [00000290144C8A00][000002901209D500 49] iPad6, [00000290143B4E00][00000290120A1680 49] iPad7, [00000290144CA900][000002901205D7C0 49] iPad8, [00000290143B5F00][00000290120A5900 49] iPadPro11, [00000290144C8600][00000290120A9A40 49] iPadPro2_11, [00000290143B6C00][00000290120ADB80 49] iPadPro3_129, [00000290144CB500][00000290120B5D00 49] iPadPro4_129, [00000290143B7300][00000290120B81C0 49] AppleTV, [00000290144CB100][0000029011DB4340 49] AppleTV4K, [00000290143B5400][0000029011DB84C0 49] TVOS, [00000290144C9000][0000029011DBC640 49] Mac, [00000290143B4800][0000029011DC07C0 49] MacClient, [00000290144CA600][0000029011DC4940 49] MacNoEditor, [00000290143B7200][0000029011DC8AC0 49] MacServer, [00000290144CB700][0000029011DCCC40 49] Linux, [00000290143B4600][0000029011DD0DC0 49] LinuxAArch64, [00000290144CA500][0000029011DD4F40 49] LinuxNoEditor, [00000290143B7800][0000029011DD90C0 49] LinuxAArch64NoEditor, [00000290144CB400][0000029011DDD240 49] LinuxClient, [00000290143B7B00][0000029011DE13C0 49] LinuxAArch64Client, [00000290144CA000][0000029011DE5540 49] LinuxServer, [00000290143B6400][0000029011DE96C0 49] LinuxAArch64Server, [00000290144CAF00][00000290120B1800 49] Android, [00000290143B7600][0000029011DED940 49] Android_Low, [00000290144C9C00][0000029011DF1A80 49] Android_Mid, [00000290143B4100][0000029011DF5BC0 49] Android_High, [00000290144C9700][0000029011DFDD40 49] Android_Default, [00000290143B4A00][0000029011E00200 49] Android_Adreno4xx, [00000290144C8D00][0000029011E04380 49] Android_Adreno5xx_Low, [00000290143B7C00][0000029011E08500 49] Android_Adreno5xx, [00000290144C9800][0000029011E0C680 49] Android_Adreno6xx, [00000290143B5C00][0000029011E10800 49] Android_Adreno6xx_Vulkan, [00000290144C8E00][0000029011E14980 49] Android_Mali_T6xx, [00000290143B7000][0000029011E18B00 49] Android_Mali_T7xx, [00000290144CB200][0000029011E1CC80 49] Android_Mali_T8xx, [00000290143B4F00][0000029011E20E00 49] Android_Mali_G71, [00000290144CB300][0000029011E24F80 49] Android_Mali_G72, [00000290143B5800][0000029011E29100 49] Android_Mali_G72_Vulkan, [00000290144C8100][0000029011E2D280 49] Android_Mali_G76, [00000290143B7D00][0000029011E31400 49] Android_Mali_G76_Vulkan, [00000290143A5E00][0000029011E35580 49] Android_Mali_G77, [00000290143FE600][0000029011E39700 49] Android_Mali_G77_Vulkan, [00000290143A6300][0000029011E3D880 49] Android_Vulkan_SM5, [00000290143FDB00][0000029011DF99C0 49] Android_PowerVR_G6xxx, [00000290143A7200][0000029011E41B00 49] Android_PowerVR_GT7xxx, [00000290143FC100][0000029011E45C40 49] Android_PowerVR_GE8xxx, [00000290143A7A00][0000029011E4C100 49] Android_PowerVR_GM9xxx, [00000290143FCD00][0000029011E50280 49] Android_PowerVR_GM9xxx_Vulkan, [00000290143A4300][0000029011E54400 49] Android_TegraK1, [00000290143FC400][0000029011E58580 49] Android_Unknown_Vulkan, [00000290143A4800][0000029011E5C700 49] Lumin, [00000290143FDF00][0000029011E60880 49] Lumin_Desktop, [00000290143A6C00][0000029011E64A00 49] HoloLens, 
+[2021.06.22-00.34.39:009][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.22-00.34.39:009][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.22-00.34.39:009][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.22-00.34.39:009][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.22-00.34.39:009][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.22-00.34.39:022][  0]LogNetVersion: TTGP 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2266915656)
+[2021.06.22-00.34.39:464][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.22-00.34.39:504][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.039445 seconds
+[2021.06.22-00.34.39:509][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.06.22-00.34.39:509][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.06.22-00.34.39:509][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.22-00.34.39:796][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.22-00.34.39:814][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.22-00.34.40:002][  0]SourceControl: Source control is disabled
+[2021.06.22-00.34.40:002][  0]SourceControl: Source control is disabled
+[2021.06.22-00.34.40:015][  0]SourceControl: Source control is disabled
+[2021.06.22-00.34.40:018][  0]SourceControl: Source control is disabled
+[2021.06.22-00.34.40:031][  0]SourceControl: Source control is disabled
+[2021.06.22-00.34.40:073][  0]LogUProjectInfo: Found projects:
+[2021.06.22-00.34.40:080][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.22-00.34.40:080][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.22-00.34.40:243][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.22-00.34.40:263][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.22-00.34.40:263][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.22-00.34.40:313][  0]LogCollectionManager: Loaded 0 collections in 0.001590 seconds
+[2021.06.22-00.34.40:336][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Collections/' took 0.00s
+[2021.06.22-00.34.40:336][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/Developers/jlazaro4/Collections/' took 0.00s
+[2021.06.22-00.34.40:336][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/Collections/' took 0.00s
+[2021.06.22-00.34.40:336][  0]LogOcInput: OculusInput pre-init called
+[2021.06.22-00.34.40:347][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.22-00.34.40:347][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.22-00.34.40:390][  0]LogEngine: Initializing Engine...
+[2021.06.22-00.34.40:391][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.22-00.34.40:391][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.22-00.34.40:392][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.22-00.34.40:512][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.22-00.34.40:521][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.22-00.34.40:540][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.22-00.34.40:544][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.22-00.34.40:544][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.22-00.34.40:545][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-00.34.40:545][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-00.34.40:545][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-00.34.40:545][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-00.34.40:545][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-00.34.40:545][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-00.34.40:545][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-00.34.40:545][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-00.34.40:545][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-00.34.40:545][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-00.34.40:562][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-00.34.40:562][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-00.34.40:627][  0]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2021.06.22-00.34.40:632][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-00.34.40:634][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-00.34.40:634][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-00.34.40:635][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-00.34.40:635][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-00.34.40:635][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.22-00.34.40:636][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-00.34.40:636][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-00.34.40:636][  0]LogInit: FAudioDevice initialized.
+[2021.06.22-00.34.40:636][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.22-00.34.40:637][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.22-00.34.40:729][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/jlazaro4/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.22-00.34.40:729][  0]LogInit: Texture streaming: Enabled
+[2021.06.22-00.34.40:741][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.22-00.34.40:750][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.22-00.34.40:750][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.22-00.34.40:770][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.22-00.34.40:805][  0]LogInit: Transaction tracking system initialized
+[2021.06.22-00.34.40:826][  0]BlueprintLog: New page: Editor Load
+[2021.06.22-00.34.40:913][  0]LocalizationService: Localization service is disabled
+[2021.06.22-00.34.40:937][  0]TimingProfiler: Initialize
+[2021.06.22-00.34.40:937][  0]TimingProfiler: OnSessionChanged
+[2021.06.22-00.34.40:937][  0]LoadingProfiler: Initialize
+[2021.06.22-00.34.40:937][  0]LoadingProfiler: OnSessionChanged
+[2021.06.22-00.34.40:937][  0]NetworkingProfiler: Initialize
+[2021.06.22-00.34.40:937][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.22-00.34.40:937][  0]MemoryProfiler: Initialize
+[2021.06.22-00.34.40:937][  0]MemoryProfiler: OnSessionChanged
+[2021.06.22-00.34.41:005][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.22-00.34.41:006][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.22-00.34.41:094][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.22-00.34.41:094][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.22-00.34.41:278][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/' took 0.00s
+[2021.06.22-00.34.41:480][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.22-00.34.41:487][  0]SourceControl: Source control is disabled
+[2021.06.22-00.34.41:487][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.487
+[2021.06.22-00.34.41:490][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.06.22-00.34.41:491][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.22-00.34.41:491][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.41:491][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.22-00.34.41:497][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.06.22-00.34.41:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.06.22-00.34.41:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.06.22-00.34.41:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.06.22-00.34.41:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.06.22-00.34.41:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.06.22-00.34.41:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.06.22-00.34.41:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.06.22-00.34.41:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.06.22-00.34.41:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.06.22-00.34.41:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.06.22-00.34.41:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.06.22-00.34.41:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.06.22-00.34.41:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.06.22-00.34.41:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.06.22-00.34.41:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.06.22-00.34.41:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.06.22-00.34.41:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.06.22-00.34.41:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Fire01.uasset"
+[2021.06.22-00.34.41:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.06.22-00.34.41:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.06.22-00.34.41:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.06.22-00.34.41:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Light01.uasset"
+[2021.06.22-00.34.41:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.06.22-00.34.41:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Light02.uasset"
+[2021.06.22-00.34.41:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.06.22-00.34.41:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.06.22-00.34.41:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.06.22-00.34.41:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.06.22-00.34.41:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.06.22-00.34.41:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.06.22-00.34.41:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.06.22-00.34.41:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.06.22-00.34.41:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.06.22-00.34.41:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Steam01.uasset"
+[2021.06.22-00.34.41:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.06.22-00.34.41:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.06.22-00.34.41:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.06.22-00.34.41:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.06.22-00.34.41:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.06.22-00.34.41:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.06.22-00.34.41:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.06.22-00.34.41:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.06.22-00.34.41:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.06.22-00.34.41:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.06.22-00.34.41:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.06.22-00.34.41:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.06.22-00.34.41:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.06.22-00.34.41:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.06.22-00.34.41:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.06.22-00.34.41:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.06.22-00.34.41:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.06.22-00.34.41:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.06.22-00.34.41:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.06.22-00.34.41:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.06.22-00.34.41:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.06.22-00.34.41:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.06.22-00.34.41:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Maps/StarterMap.umap"
+[2021.06.22-00.34.41:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.06.22-00.34.41:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.06.22-00.34.41:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.06.22-00.34.41:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.06.22-00.34.41:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.06.22-00.34.41:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.06.22-00.34.41:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.06.22-00.34.41:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.06.22-00.34.41:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.06.22-00.34.41:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.06.22-00.34.41:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.06.22-00.34.41:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.06.22-00.34.41:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.06.22-00.34.41:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.06.22-00.34.41:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.06.22-00.34.41:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.06.22-00.34.41:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.06.22-00.34.41:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.06.22-00.34.41:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.06.22-00.34.41:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.06.22-00.34.41:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.06.22-00.34.41:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.06.22-00.34.41:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.06.22-00.34.41:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.06.22-00.34.41:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.06.22-00.34.41:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.06.22-00.34.41:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.06.22-00.34.41:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.06.22-00.34.41:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.06.22-00.34.41:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.06.22-00.34.41:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.06.22-00.34.41:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.06.22-00.34.41:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.06.22-00.34.41:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.06.22-00.34.41:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.06.22-00.34.41:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.06.22-00.34.41:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.06.22-00.34.41:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.06.22-00.34.41:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.06.22-00.34.41:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.06.22-00.34.41:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.06.22-00.34.41:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.06.22-00.34.41:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.06.22-00.34.41:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.06.22-00.34.41:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.06.22-00.34.41:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.06.22-00.34.41:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.06.22-00.34.41:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.06.22-00.34.41:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.06.22-00.34.41:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.06.22-00.34.41:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.06.22-00.34.41:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.06.22-00.34.41:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.06.22-00.34.41:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.06.22-00.34.41:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.06.22-00.34.41:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.06.22-00.34.41:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.06.22-00.34.41:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.06.22-00.34.41:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.06.22-00.34.41:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.06.22-00.34.41:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.06.22-00.34.41:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.06.22-00.34.41:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.06.22-00.34.41:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.06.22-00.34.41:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.06.22-00.34.41:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_Door.uasset"
+[2021.06.22-00.34.41:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.06.22-00.34.41:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.06.22-00.34.41:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.06.22-00.34.41:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.06.22-00.34.41:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.06.22-00.34.41:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.06.22-00.34.41:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.06.22-00.34.41:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.06.22-00.34.41:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.06.22-00.34.41:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.06.22-00.34.41:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.06.22-00.34.41:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.06.22-00.34.41:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.06.22-00.34.41:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.06.22-00.34.41:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.06.22-00.34.41:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.06.22-00.34.41:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.06.22-00.34.41:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.06.22-00.34.41:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.06.22-00.34.41:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.06.22-00.34.41:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.06.22-00.34.41:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.06.22-00.34.41:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.06.22-00.34.41:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.06.22-00.34.41:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.06.22-00.34.41:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.06.22-00.34.41:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.06.22-00.34.41:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.06.22-00.34.41:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.06.22-00.34.41:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.06.22-00.34.41:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.06.22-00.34.41:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.06.22-00.34.41:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.06.22-00.34.41:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.06.22-00.34.41:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.06.22-00.34.41:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.06.22-00.34.41:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.06.22-00.34.41:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.06.22-00.34.41:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.06.22-00.34.41:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.06.22-00.34.41:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.06.22-00.34.41:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.06.22-00.34.41:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.06.22-00.34.41:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.06.22-00.34.42:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.06.22-00.34.42:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.06.22-00.34.42:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.06.22-00.34.42:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.06.22-00.34.42:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.06.22-00.34.42:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.06.22-00.34.42:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.06.22-00.34.42:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.06.22-00.34.42:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.06.22-00.34.42:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.06.22-00.34.42:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.06.22-00.34.42:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.06.22-00.34.42:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.06.22-00.34.42:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.06.22-00.34.42:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.06.22-00.34.42:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.06.22-00.34.42:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.06.22-00.34.42:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.06.22-00.34.42:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.06.22-00.34.42:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.06.22-00.34.42:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.06.22-00.34.42:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.06.22-00.34.42:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.06.22-00.34.42:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.06.22-00.34.42:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.06.22-00.34.42:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.06.22-00.34.42:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.06.22-00.34.42:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.06.22-00.34.42:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.06.22-00.34.42:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.06.22-00.34.42:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.06.22-00.34.42:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.06.22-00.34.42:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.06.22-00.34.42:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.06.22-00.34.42:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.06.22-00.34.42:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.06.22-00.34.42:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.06.22-00.34.42:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.06.22-00.34.42:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.06.22-00.34.42:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.06.22-00.34.42:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.06.22-00.34.42:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.06.22-00.34.42:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.06.22-00.34.42:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.06.22-00.34.42:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.06.22-00.34.42:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.06.22-00.34.42:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.06.22-00.34.42:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.06.22-00.34.42:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.06.22-00.34.42:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.06.22-00.34.42:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.06.22-00.34.42:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.06.22-00.34.42:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.06.22-00.34.42:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.06.22-00.34.42:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.06.22-00.34.42:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.06.22-00.34.42:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.06.22-00.34.42:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.06.22-00.34.42:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.06.22-00.34.42:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.06.22-00.34.42:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.06.22-00.34.43:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.06.22-00.34.43:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.06.22-00.34.43:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.06.22-00.34.43:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.06.22-00.34.43:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.06.22-00.34.43:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.06.22-00.34.43:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.06.22-00.34.43:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.06.22-00.34.43:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.06.22-00.34.43:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.06.22-00.34.43:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.06.22-00.34.43:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.06.22-00.34.43:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.06.22-00.34.43:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.06.22-00.34.43:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.06.22-00.34.43:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.06.22-00.34.43:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.06.22-00.34.43:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.06.22-00.34.43:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.06.22-00.34.43:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.06.22-00.34.43:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.06.22-00.34.43:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.06.22-00.34.43:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.06.22-00.34.43:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.06.22-00.34.43:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.06.22-00.34.43:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.06.22-00.34.43:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.06.22-00.34.43:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.06.22-00.34.43:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.06.22-00.34.43:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.06.22-00.34.43:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.06.22-00.34.43:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.06.22-00.34.43:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.06.22-00.34.43:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.06.22-00.34.43:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.06.22-00.34.43:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.06.22-00.34.43:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.06.22-00.34.43:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.06.22-00.34.43:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.06.22-00.34.43:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.06.22-00.34.43:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.06.22-00.34.43:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.06.22-00.34.43:436][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2021.06.22-00.34.43:439][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.06.22-00.34.43:504][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.06.22-00.34.43:738][  0]LogSavePackage: Moving '../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/Floor_400x400D9E854354A45601F1243C9803FF46429.tmp' to '../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.06.22-00.34.43:740][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.06.22-00.34.43:741][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/RollingBP/Maps/RollingBPExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.22-00.34.43:741][  0]LightingResults: New page: Lighting Build
+[2021.06.22-00.34.43:741][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-00.34.43:742][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-00.34.43:742][  0]MapCheck: New page: Map Check
+[2021.06.22-00.34.43:742][  0]LightingResults: New page: Lighting Build
+[2021.06.22-00.34.43:752][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.06.22-00.34.43:879][  0]LogTexture: Display: Building textures: DeprecatedTexture39796F0E471525C1BC35C7A7B1E9849F (BGRA8, 128X128)
+[2021.06.22-00.34.43:884][  0]LogTexture: Display: Building textures: DeprecatedTexture9A36667A4A7A367B3C4F1780A82F2CCB (BGRA8, 128X128)
+[2021.06.22-00.34.43:930][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'RollingBPExampleMap'.
+[2021.06.22-00.34.43:931][  0]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2021.06.22-00.34.43:954][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.22-00.34.43:962][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.06.22-00.34.43:963][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.22-00.34.43:963][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2021.06.22-00.34.43:963][  0]LogFileHelpers: Loading map 'RollingBPExampleMap' took 0.223
+[2021.06.22-00.34.43:965][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.966
+[2021.06.22-00.34.44:339][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-00.34.44:347][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-00.34.44:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-00.34.44:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-00.34.44:405][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3601 classes and 859 folders.
+[2021.06.22-00.34.44:420][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.22-00.34.44:422][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.22-00.34.44:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.22-00.34.44:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.06.22-00.34.44:423][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.22-00.34.44:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.22-00.34.44:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.06.22-00.34.44:423][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.22-00.34.44:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.22-00.34.44:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.06.22-00.34.44:424][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.22-00.34.44:424][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:424][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.22-00.34.44:424][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.06.22-00.34.44:425][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.22-00.34.44:425][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:425][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.22-00.34.44:425][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.06.22-00.34.44:425][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.22-00.34.44:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.22-00.34.44:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.22-00.34.44:426][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.22-00.34.44:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.22-00.34.44:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.06.22-00.34.44:427][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.22-00.34.44:427][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.22-00.34.44:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.06.22-00.34.44:428][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.22-00.34.44:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.22-00.34.44:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.06.22-00.34.44:428][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.22-00.34.44:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.22-00.34.44:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.06.22-00.34.44:429][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.22-00.34.44:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.22-00.34.44:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.06.22-00.34.44:429][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.22-00.34.44:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.22-00.34.44:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.22-00.34.44:430][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.22-00.34.44:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.22-00.34.44:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.06.22-00.34.44:431][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.22-00.34.44:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.22-00.34.44:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.06.22-00.34.44:432][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.22-00.34.44:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.22-00.34.44:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.06.22-00.34.44:432][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.22-00.34.44:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.22-00.34.44:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.06.22-00.34.44:433][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.22-00.34.44:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.22-00.34.44:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.06.22-00.34.44:434][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.22-00.34.44:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.22-00.34.44:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.06.22-00.34.44:434][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.22-00.34.44:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.22-00.34.44:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.06.22-00.34.44:435][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.22-00.34.44:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.22-00.34.44:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.06.22-00.34.44:436][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.22-00.34.44:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.22-00.34.44:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.06.22-00.34.44:436][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.22-00.34.44:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.22-00.34.44:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.06.22-00.34.44:437][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.22-00.34.44:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.22-00.34.44:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.06.22-00.34.44:438][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.22-00.34.44:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.22-00.34.44:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.06.22-00.34.44:439][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.22-00.34.44:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.22-00.34.44:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.06.22-00.34.44:439][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.22-00.34.44:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-00.34.44:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.22-00.34.44:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.06.22-00.34.44:510][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.22-00.34.44:516][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.06.22-00.34.44:623][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.22-00.34.44:625][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.22-00.34.44:631][  0]LogSlate: Took 0.000731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.22-00.34.44:703][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2021.06.22-00.34.44:883][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.22-00.34.44:883][  0]LogLoad: (Engine Initialization) Total time: 9.88 seconds
+[2021.06.22-00.34.44:883][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.22-00.34.44:883][  0]LogInit: First time updating LLM stats...
+[2021.06.22-00.34.44:900][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.06.22-00.34.44:900][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.06.22-00.34.44:923][  0]LogAssetRegistry: Asset discovery search completed in 6.3039 seconds
+[2021.06.22-00.34.44:924][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.06.22-00.34.45:003][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.22-00.35.20:549][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.22-00.35.20:554][ 20]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.22-00.35.20:574][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.06.22-00.35.20:658][ 20]LogSavePackage: Moving '../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Saved/RollingBPExampleMap0C18FB724C49C91AB3B882BCC3E63677.tmp' to '../../../../../../Users/jlazaro4/Documents/GitHub/TableTop-Grand-Prix/TTGP/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2021.06.22-00.35.20:663][ 20]LogFileHelpers: Saving map 'RollingBPExampleMap' took 0.094
+[2021.06.22-00.35.20:677][ 20]AssetCheck: New page: Asset Save: RollingBPExampleMap
+[2021.06.22-00.35.20:677][ 20]LogContentValidation: Display: Validating World /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap
